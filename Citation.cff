@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "GV"
+  given-names: "Gabriel"
+title: "SNN-Arrhythmia-Detector: Neuromorphic ECG Classification using STDP"
+version: 1.0.0
+date-released: 2026-01-31
+url: "https://github.com/GabrielGV161/Redes-Neuronales"
+keywords:
+  - neuromorphic-computing
+  - spiking-neural-networks
+  - ecg-analysis
+  - stdp
+  - brian2
+license: MIT
