@@ -65,8 +65,8 @@ Clone the repository:
 
 Bash:
 ```
-git clone [https://github.com/RaquelGarciah/ICTUS_ALARM_SYSTEM.git](https://github.com/RaquelGarciah/ICTUS_ALARM_SYSTEM.git)
-cd Redes-Neuronales
+git clone [https://github.com/RaquelGarciah/IctusAlarmSystem_HarvardHackaton.git](https://github.com/RaquelGarciah/IctusAlarmSystem_HarvardHackaton.git)
+cd IctusAlarmSystem_HarvardHackaton
 ```
 Install dependencies: This project relies on Brian2 for simulation and wfdb for clinical data access.
 ```
